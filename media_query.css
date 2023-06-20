@@ -13,7 +13,7 @@
     .movie_data_container {
         display: flex;
         flex-direction: column;
-        height: auto;
+        height: 600px;
         transition: all var(--transition-medium);
     }
     
